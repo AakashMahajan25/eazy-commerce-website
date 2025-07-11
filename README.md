@@ -2,6 +2,22 @@
 
 A modern, high-performance e-commerce website built with Next.js 15, React 19, TypeScript, and Tailwind CSS. This project provides a solid foundation for building scalable e-commerce applications with the latest web technologies.
 
+## 🌐 Project Ecosystem
+
+This website is part of a complete e-commerce platform consisting of multiple interconnected applications:
+
+| Component | Technology | Repository | Purpose |
+|-----------|------------|------------|---------|
+| **🌐 Website** | Next.js 15 + React 19 | *Current Repository* | Main e-commerce website |
+| **📱 Mobile App** | React Native + Expo | [eazy-commerce-mobile-app](https://github.com/AakashMahajan25/eazy-commerce-mobile-app) | Cross-platform mobile application |
+| **⚡ Backend API** | Node.js + Express | [eazy-commerce-backend](https://github.com/AakashMahajan25/eazy-commerce-backend) | REST API and business logic |
+
+### Platform Features
+- **Unified Shopping Experience**: Seamless experience across web and mobile platforms
+- **Real-time Synchronization**: Cart, wishlist, and user data sync across all platforms  
+- **Consistent Design System**: Shared UI components and styling patterns
+- **Scalable Architecture**: Microservices-ready backend with modern frontend frameworks
+
 ## ✨ Features
 
 - **⚡ Performance First**: Built with Next.js 15 and Turbopack for lightning-fast development
